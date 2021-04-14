@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Projekt_Kalkulator_Kotlin</string>
+    <string name="calculate_value">Oblicz</string>
+    <string name="set_value">Podaj wartość</string>
+    <string name="clear_value">Wyczyść</string>
+    <string name="result">Wynik</string>
+    <string name="suma">+</string>
+    <string name="roznica">-</string>
+    <string name="iloczyn">*</string>
+    <string name="iloraz">/</string>
+</resources>
